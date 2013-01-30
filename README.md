@@ -14,6 +14,7 @@ local.js:
     GLOBAL.mysqlPassword = 'password';
 
 wikiConfig.js:
+
     {
     	"protocol": "https",
     	"port": 443,
